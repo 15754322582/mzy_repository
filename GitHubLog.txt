@@ -1,0 +1,172 @@
+2020-06-08 16:19:22.9608|WARN|thread: 1|StandardUserErrors|Showing user error Please check your log file for more details, or email support if you are still having problems.
+GitHub.IO.ProcessException: Cloning into 'mzy_repository'...
+fatal: unable to access 'https://github.com/15754322582/mzy_repository.git/': error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol version
+2020-06-08 16:18:14.8534|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:file:///C:/Users/Administrator/Desktop/github/GitHub.application
+2020-06-08 16:18:14.8534|INFO|thread: 1|AppInstanceCommunicator|Starting up as master instance of GitHub for Windows
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| #########################################
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| GitHub for Windows started. VERSION: 2.11.0.5
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| Build version: 0dbbd3940e474bb375c1b754c9a29d5569263abd
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| ***************************************
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| ***                                 ***
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| ***                                 ***
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| ***        Have a problem?          ***
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| ***    Email support@github.com     ***
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| ***      and include this file      ***
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| ***                                 ***
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| ***                                 ***
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| ***************************************
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| OS Version: Windows NT 6.3.9600.0 amd64
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| CLR Version: 4.0.30319.42000
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| Current culture: zh-CN
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| Terminal Services session: no
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| Location: C:\Users\Administrator\AppData\Local\Apps\2.0\5DOKDT25.BR9\VYC0ZJ07.DCD\gith..tion_317444273a93ac29_0002.000b_6feefe471309ddd1\GitHub.exe
+2020-06-08 16:18:14.8797|INFO|thread: 4|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2020-06-08 16:18:14.8954|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 4716:/tmp/ssh-QgvzXH2LRjbX/agent.2004
+2020-06-08 16:18:14.8954|INFO|thread: 4|GitEnvironment|PATH is C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Administrator\AppData\Local\Apps\2.0\5DOKDT25.BR9\VYC0ZJ07.DCD\gith..tion_317444273a93ac29_0002.000b_6feefe471309ddd1;C:\Users\Administrator\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\;D:\python\Scripts\;D:\python\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\TomCat\apache-tomcat-7.0.99\bin;D:\TomCat\apache-tomcat-7.0.99\lib;D:\JDK\jdk1.8.0_131\bin;D:\JDK\jdk1.8.0_131\jre\bin;D:\node\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\yagarto-tools-20121018\bin;C:\Program Files (x86)\yagarto\bin;C:\ProgramData\NVIDIA GPU Computing Toolkit\v10.0;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\lib\x64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\extras\CUPTI\libx64;C:\Program Files\Mozilla Firefox;D:\Anaconda\envs\tensorflow\Library\bin\graphviz\release\bin\dot.exe;D:\Anaconda;D:\Anaconda\Library\mingw-w64\bin;D:\Anaconda\Library\usr\bin;D:\Anaconda\Library\bin;D:\Anaconda\Scripts;D:\python\Scripts\;D:\python\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\vs code\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;D:\PyCharm\PyCharm 2020.1\bin;;D:\Anaconda\envs\tensorflow\Library\bin\graphviz\release\bin
+2020-06-08 16:18:14.8954|INFO|thread: 4|StartupLogging| =====================================================
+2020-06-08 16:18:14.8954|INFO|thread: 4|StartupLogging|  DIAGNOSTICS                                        |
+2020-06-08 16:18:14.8954|INFO|thread: 4|StartupLogging| =====================================================
+2020-06-08 16:18:14.8954|INFO|thread: 4|StartupLogging| Git Extracted: 'True:
+2020-06-08 16:18:14.8954|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2020-06-08 16:18:14.8954|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2020-06-08 16:18:14.8954|INFO|thread: 4|StartupLogging| PortableGit Dir Exists: 'C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad'
+2020-06-08 16:18:14.8954|INFO|thread: 4|StartupLogging| Git Executable Exists: 'C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe'
+2020-06-08 16:18:14.8954|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Windows\System32\OpenSSH\'
+2020-06-08 16:18:14.8954|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Program Files\Mozilla Firefox'
+2020-06-08 16:18:14.8954|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'D:\Anaconda\envs\tensorflow\Library\bin\graphviz\release\bin\dot.exe'
+2020-06-08 16:18:14.8954|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'D:\Anaconda\Library\usr\bin'
+2020-06-08 16:18:14.8954|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'D:\PyCharm\PyCharm 2020.1\bin'
+2020-06-08 16:18:14.8954|INFO|thread: 4|StartupLogging| ----------------------------------------------------
+2020-06-08 16:18:14.8954|INFO|thread: 4|StartupLogging| PATH: C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\;D:\python\Scripts\;D:\python\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\TomCat\apache-tomcat-7.0.99\bin;D:\TomCat\apache-tomcat-7.0.99\lib;D:\JDK\jdk1.8.0_131\bin;D:\JDK\jdk1.8.0_131\jre\bin;D:\node\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\yagarto-tools-20121018\bin;C:\Program Files (x86)\yagarto\bin;C:\ProgramData\NVIDIA GPU Computing Toolkit\v10.0;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\lib\x64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\extras\CUPTI\libx64;C:\Program Files\Mozilla Firefox;D:\Anaconda\envs\tensorflow\Library\bin\graphviz\release\bin\dot.exe;D:\Anaconda;D:\Anaconda\Library\mingw-w64\bin;D:\Anaconda\Library\usr\bin;D:\Anaconda\Library\bin;D:\Anaconda\Scripts;D:\python\Scripts\;D:\python\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\vs code\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;D:\PyCharm\PyCharm 2020.1\bin;;D:\Anaconda\envs\tensorflow\Library\bin\graphviz\release\bin
+2020-06-08 16:18:14.9109|INFO|thread: 4|StartupLogger|Proxy information: (None)
+2020-06-08 16:18:14.9109|INFO|thread: 4|StartupLogger|Couldn't fetch creds for proxy
+2020-06-08 16:18:15.0115|INFO|thread: 1|App|Checking whether application is network deployed.
+2020-06-08 16:18:15.0427|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\Administrator\AppData\Local\Apps\2.0\5DOKDT25.BR9\VYC0ZJ07.DCD\gith..tion_317444273a93ac29_0002.000b_6feefe471309ddd1\Images\App.ico'
+2020-06-08 16:18:15.1999|INFO|thread: 4|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2020-06-08 16:18:15.2457|INFO|thread: 4|MsysGitCertificateInstaller|Found certificate cache, loaded 162 certificates
+2020-06-08 16:18:15.2457|INFO|thread: 4|MsysGitCertificateInstaller|Created certificate bundle with 156 entries
+2020-06-08 16:18:15.7578|INFO|thread: 1|GitExtractionVisualHelper|Portable Git is already extracted
+2020-06-08 16:18:15.7578|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2020-06-08 16:18:15.7578|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2020-06-08 16:18:16.1500|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2020-06-08 16:18:18.0451|INFO|thread: 1|RepositoryHost|Log in from cache for login '15754322582' to host 'https://api.github.com/' SUCCEEDED
+2020-06-08 16:18:18.0647|INFO|thread:22|ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = '15754322582' and user.email = '467272373@qq.com'
+2020-06-08 16:18:18.0763|INFO|thread:22|SSHKeyHelper|ssh-agent already running
+2020-06-08 16:18:18.0763|INFO|thread:22|PortablePackageManager|Already extracted hawser-amd64.7z, returning 100%
+2020-06-08 16:18:18.0861|INFO|thread:22|GitEnvironment|Process set up with this SSH Agent info: 4716:/tmp/ssh-QgvzXH2LRjbX/agent.2004
+2020-06-08 16:18:18.0861|INFO|thread:22|GitEnvironment|PATH is C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Administrator\AppData\Local\Apps\2.0\5DOKDT25.BR9\VYC0ZJ07.DCD\gith..tion_317444273a93ac29_0002.000b_6feefe471309ddd1;C:\Users\Administrator\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2020-06-08 16:18:18.0861|INFO|thread:22|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\ssh-add.exe', Args: '"C:\Users\Administrator\.ssh\github_rsa"', Working Directory: C:\Users\Administrator\AppData\Local\Temp\
+2020-06-08 16:18:18.1261|INFO|thread: 5|SSHKeyHelper|Found existing SSH key pair
+2020-06-08 16:18:19.7219|WARN|thread: 1|RepositoryHost|Refresh failed.
+System.Net.Http.HttpRequestException: 发送请求时出错。 ---> System.Net.WebException: 基础连接已经关闭: 发送时发生错误。 ---> System.IO.IOException: 无法将数据写入传输连接: 远程主机强迫关闭了一个现有的连接。。 ---> System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   在 System.Net.Sockets.NetworkStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.Sockets.NetworkStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   在 System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Net.TlsStream.CallProcessAuthentication(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback asyncCallback, Object asyncState)
+   在 System.Net.TlsStream.UnsafeBeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback asyncCallback, Object asyncState)
+   在 System.Net.PooledStream.UnsafeBeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.Internal.HttpClientAdapter.<Send>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.Connection.<RunRequest>d__23.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.Connection.<Run>d__1f`1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.ApiConnection.<Get>d__0`1.MoveNext()
+2020-06-08 16:18:19.7625|WARN|thread: 1|StandardUserErrors|Showing user error Could not connect to the remote server. The server or your internect connection could be down
+System.Net.Http.HttpRequestException: 发送请求时出错。 ---> System.Net.WebException: 基础连接已经关闭: 发送时发生错误。 ---> System.IO.IOException: 无法将数据写入传输连接: 远程主机强迫关闭了一个现有的连接。。 ---> System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   在 System.Net.Sockets.NetworkStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.Sockets.NetworkStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   在 System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Net.TlsStream.CallProcessAuthentication(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback asyncCallback, Object asyncState)
+   在 System.Net.TlsStream.UnsafeBeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback asyncCallback, Object asyncState)
+   在 System.Net.PooledStream.UnsafeBeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.Internal.HttpClientAdapter.<Send>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.Connection.<RunRequest>d__23.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.Connection.<Run>d__1f`1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.ApiConnection.<Get>d__0`1.MoveNext()
+2020-06-08 16:18:19.7625|INFO|thread: 4|SSHKeyHelper|ssh-agent already running
+2020-06-08 16:18:19.7625|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 4716:/tmp/ssh-QgvzXH2LRjbX/agent.2004
+2020-06-08 16:18:19.7625|INFO|thread: 4|GitEnvironment|PATH is C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Administrator\AppData\Local\Apps\2.0\5DOKDT25.BR9\VYC0ZJ07.DCD\gith..tion_317444273a93ac29_0002.000b_6feefe471309ddd1;C:\Users\Administrator\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2020-06-08 16:18:19.7625|INFO|thread: 4|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\ssh-add.exe', Args: '"C:\Users\Administrator\.ssh\github_rsa"', Working Directory: C:\Users\Administrator\AppData\Local\Temp\
+2020-06-08 16:18:19.8016|INFO|thread:14|SSHKeyHelper|Found existing SSH key pair
+2020-06-08 16:18:21.4543|INFO|thread:15|SSHKeyHelper|ssh-agent already running
+2020-06-08 16:18:21.4582|INFO|thread:15|GitEnvironment|Process set up with this SSH Agent info: 4716:/tmp/ssh-QgvzXH2LRjbX/agent.2004
+2020-06-08 16:18:21.4582|INFO|thread:15|GitEnvironment|PATH is C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Administrator\AppData\Local\Apps\2.0\5DOKDT25.BR9\VYC0ZJ07.DCD\gith..tion_317444273a93ac29_0002.000b_6feefe471309ddd1;C:\Users\Administrator\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2020-06-08 16:18:21.4582|INFO|thread:15|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\ssh-add.exe', Args: '"C:\Users\Administrator\.ssh\github_rsa"', Working Directory: C:\Users\Administrator\AppData\Local\Temp\
+2020-06-08 16:18:21.4923|INFO|thread:10|SSHKeyHelper|Found existing SSH key pair
+2020-06-08 16:18:23.1359|WARN|thread:16|RemoteSSHKeyChain|Failed to add ssh keys to github account
+System.Net.Http.HttpRequestException: 发送请求时出错。 ---> System.Net.WebException: 基础连接已经关闭: 发送时发生错误。 ---> System.IO.IOException: 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 ---> System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.TlsStream.EndWrite(IAsyncResult asyncResult)
+   在 System.Net.PooledStream.EndWrite(IAsyncResult asyncResult)
+   在 System.Net.ConnectStream.WriteHeadersCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.Internal.HttpClientAdapter.<Send>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.Connection.<RunRequest>d__23.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.Connection.<Run>d__1f`1.MoveNext()
+2020-06-08 16:18:25.0555|INFO|thread:15|SoftwareUpdateViewModel|Checking for new version
+2020-06-08 16:19:22.0649|INFO|thread: 1|RepositoryModel|Cloning repo https://github.com/15754322582/mzy_repository.git
+2020-06-08 16:19:22.0668|INFO|thread: 1|GitClient|Cloning 'https://github.com/15754322582/mzy_repository.git' to 'mzy_repository' in directory 'C:\Users\Administrator\Documents\GitHub
+2020-06-08 16:19:22.0668|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 4716:/tmp/ssh-QgvzXH2LRjbX/agent.2004
+2020-06-08 16:19:22.0668|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Administrator\AppData\Local\Apps\2.0\5DOKDT25.BR9\VYC0ZJ07.DCD\gith..tion_317444273a93ac29_0002.000b_6feefe471309ddd1;C:\Users\Administrator\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2020-06-08 16:19:22.0668|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'clone --progress --recursive  --  "https://github.com/15754322582/mzy_repository.git" "mzy_repository" ', Working Directory: C:\Users\Administrator\Documents\GitHub
